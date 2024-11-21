@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://linkedin.com/in/alexmoskalyk" target="_blank">
+  <a align="center" href="https://linkedin.com/in/alexmoskalyk">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
