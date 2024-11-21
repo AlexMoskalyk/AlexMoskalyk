@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Oleksandr's profile!👋</h1>
-<h3 align="center">The goal-oriented software developer</h3>
+<h3 align="center">The goal-oriented software developer with a strong focus on quality and teamwork</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
