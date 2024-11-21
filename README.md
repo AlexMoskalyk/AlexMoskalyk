@@ -3,11 +3,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&center=true&width=435&lines=Always+learning!;Always+progressing!;Always+ready+for+challenges!" alt="Typing SVG" /></a>
+<a href="#" ><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&center=true&width=435&lines=Always+learning!;Always+progressing!;Always+ready+for+challenges!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alexmoskalyk" target="_blank">
+  <a align="center" href="https://linkedin.com/in/alexmoskalyk" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
