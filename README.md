@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to Oleksandr's profile!👋</h1>
-<h4 align="center">
+<h3 align="center">
 Frontend Developer with 4 years of experience. I have experience in frontend development in a custom software
 development company, and also participated in projects as a fullstack developer. Among my strengths, I can highlight
 my critical thinking skills, which allow me to make well-informed decisions based on objective facts and data, avoiding
 the influence of emotional factors. I also possess high adaptability, quickly learning new tools, technologies, and
 processes. My proficiency in English, Czech (intermediate), Ukrainian (native), Russian (native) equips me to effectively
 collaborate with international teams.
-</h4>
+</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -18,6 +18,22 @@ collaborate with international teams.
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+
+
+  <h2>🛠️ My Contacts</h2>
+  
+  <p>
+    Tel: +420-774-059-987
+  </p>
+  <p>
+    WhatsApp: +420-774-059-987
+  </p>
+  <p>
+    Telegram: @alexmoskalyk
+  </p>
+
+
 
 
 
