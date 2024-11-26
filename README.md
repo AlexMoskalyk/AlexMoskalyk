@@ -22,7 +22,10 @@ collaborate with international teams.
 
 
   <h2>🛠️ My Contacts</h2>
-  
+
+  <p>
+    Email: omoskalyk07@hotmail.com
+  </p>
   <p>
     Tel: +420-774-059-987
   </p>
