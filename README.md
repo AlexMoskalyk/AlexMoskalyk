@@ -1,9 +1,16 @@
 <h1 align="center">Welcome to Oleksandr's profile!👋</h1>
-<h3 align="center">The goal-oriented software developer with a strong focus on quality and teamwork</h3>
+<h4 align="center">
+Frontend Developer with 4 years of experience. I have experience in frontend development in a custom software
+development company, and also participated in projects as a fullstack developer. Among my strengths, I can highlight
+my critical thinking skills, which allow me to make well-informed decisions based on objective facts and data, avoiding
+the influence of emotional factors. I also possess high adaptability, quickly learning new tools, technologies, and
+processes. My proficiency in English, Czech (intermediate), Ukrainian (native), Russian (native) equips me to effectively
+collaborate with international teams.
+</h4>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="#" ><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&center=true&width=435&lines=Always+learning!;Always+progressing!;Always+ready+for+challenges!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=3394F7&center=true&vCenter=true&width=435&lines=Always+learning!;Always+progressing!;Always+ready+for+challenges!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
