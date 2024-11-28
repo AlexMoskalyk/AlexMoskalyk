@@ -24,7 +24,7 @@ collaborate with international teams.
   <h2>🛠️ My Contacts</h2>
 
   <p>
-    Email: omoskalyk07@hotmail.com
+    Email: alex.moskalik@gmail.com
   </p>
   <p>
     Tel: +420-774-059-987
